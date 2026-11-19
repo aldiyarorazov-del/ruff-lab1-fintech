@@ -1,0 +1,1 @@
+# ruff-lab1-fintech
